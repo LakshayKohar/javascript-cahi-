@@ -1,1 +1,1 @@
-# javascript-cahi-
+# javascript-chai-
